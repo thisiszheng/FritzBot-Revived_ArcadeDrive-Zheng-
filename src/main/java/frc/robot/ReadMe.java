@@ -4,7 +4,7 @@ This entire file is purely for documenting things in this robot code to clarify 
 Notes:
 Any lines that ends with "= null;" is exluded from this robot code as it is not necessary to run the code.
 
-Website used to help program this robot code:
+Website used to help program this robot code (and all of the FritzBot-Revived):
     https://frcteam3255.github.io/FRC-Java-Tutorial/programming/driving_robot.html
 
 Keywords (words from Tutorual -> words from here):
