@@ -18,4 +18,9 @@ public final class Constants {
   public static final int DRIVETRAIN_FRONT_RIGHT_TALON = 3;
   public static final int DRIVETRAIN_REAR_LEFT_TALON = 1;
   public static final int DRIVETRAIN_REAR_RIGHT_TALON = 4;
+
+    // PS4Controller
+  public static final int DRIVER_CONTROLLER = 0;
+  public static final int DRIVER_CONTROLLER_MOVE_AXIS = 1; // Change for your controller
+  public static final int DRIVER_CONTROLLER_ROTATE_AXIS = 2; // Change for your controller
 }
