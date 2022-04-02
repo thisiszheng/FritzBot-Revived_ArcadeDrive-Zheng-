@@ -22,6 +22,6 @@ Keywords (words from Tutorual -> words from here):
     *MotorControllerGroup = SpeedControllerGroup
     *SubsystemBase = Subsystem
 
-    * = these words are the newer verison and the other verison of it isn't compatible with newer VSC/WPIlib version (2022).
+    * = these words are the newer verison and the older verison of it isn't compatible with newer VSC/WPIlib version (2022).
 
 */
